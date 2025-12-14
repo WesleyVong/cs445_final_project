@@ -1,6 +1,6 @@
 numpy
-opencv
+opencv-contrib-python
 scipy
 matplotlib
 scikit-image
-PyWavelet
+PyWavelets
